@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Oriented Capsule Component",
+	"Description": "",
+	"Category": "Physics",
+	"CreatedBy": "Elhoussine Mehnik",
+	"CreatedByURL": "ue4resources.com/",
+	"DocsURL": "https://twitter.com/HoussineMehnik",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.24.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "OrientedCapsule",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "OrientedCapsuleEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

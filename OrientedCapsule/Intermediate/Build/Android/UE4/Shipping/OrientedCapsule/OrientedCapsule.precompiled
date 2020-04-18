@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.OrientedCapsule.cppa7.o",
+		"Module.OrientedCapsule.cppa8.o",
+		"Module.OrientedCapsule.gen.cppa7.o",
+		"Module.OrientedCapsule.gen.cppa8.o"
+	]
+}
