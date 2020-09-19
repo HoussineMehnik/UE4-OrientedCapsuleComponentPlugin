@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OrientedCapsule.cpp.obj": [
+			"OrientedCapsule.cpp.obj",
+			"OrientedCapsuleComponent.cpp.obj"
+		],
+		"Module.OrientedCapsule.gen.cpp.obj": [
+			"OrientedCapsule.init.gen.cpp.obj",
+			"OrientedCapsuleComponent.gen.cpp.obj"
+		]
+	}
+}

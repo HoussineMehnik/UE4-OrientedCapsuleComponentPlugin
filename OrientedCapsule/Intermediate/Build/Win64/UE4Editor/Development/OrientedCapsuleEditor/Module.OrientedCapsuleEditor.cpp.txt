@@ -1,0 +1,18 @@
+C:\UE425\EditorScripting\Plugins\OrientedCapsule\Intermediate\Build\Win64\UE4Editor\Development\OrientedCapsuleEditor\Definitions.OrientedCapsuleEditor.h
+C:/UE425/EditorScripting/Plugins/OrientedCapsule/Source/OrientedCapsuleEditor/Private/OrientedCapsuleEditor.cpp
+C:\UE425\EditorScripting\Plugins\OrientedCapsule\Source\OrientedCapsuleEditor\Public\OrientedCapsuleEditor.h
+C:\UE425\EditorScripting\Plugins\OrientedCapsule\Source\OrientedCapsuleEditor\Private\OrientedCapsuleEditorStyle.h
+C:/UE425/EditorScripting/Plugins/OrientedCapsule/Source/OrientedCapsuleEditor/Private/OrientedCapsuleEditorStyle.cpp
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\SlateOptMacros.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OrientedCapsule.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE425\EditorScripting\Intermediate\Build\Win64\EditorScriptingEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UE425\EditorScripting\Plugins\OrientedCapsule\Intermediate\Build\Win64\UE4Editor\Development\OrientedCapsule\Module.OrientedCapsule.cpp.obj"
+"C:\UE425\EditorScripting\Plugins\OrientedCapsule\Intermediate\Build\Win64\UE4Editor\Development\OrientedCapsule\Module.OrientedCapsule.gen.cpp.obj"
+"C:\UE425\EditorScripting\Plugins\OrientedCapsule\Intermediate\Build\Win64\UE4Editor\Development\OrientedCapsule\Default.rc2.res"
+/OUT:"C:\UE425\EditorScripting\Plugins\OrientedCapsule\Intermediate\Build\Win64\UE4Editor\Development\OrientedCapsule\UE4Editor-OrientedCapsule.lib"
+/INCLUDE:IMPLEMENT_MODULE_OrientedCapsule

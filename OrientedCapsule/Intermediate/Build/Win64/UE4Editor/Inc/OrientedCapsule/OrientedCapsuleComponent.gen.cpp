@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -49,7 +49,7 @@ void EmptyLinkFunctionForGeneratedCodeOrientedCapsuleComponent() {}
 		{ "BlueprintSpawnableComponent", "" },
 		{ "ClassGroupNames", "Collision" },
 		{ "DisplayName", "Oriented Capsule Collision" },
-		{ "HideCategories", "Object LOD Lighting TextureStreaming Object LOD Lighting TextureStreaming Object LOD Lighting TextureStreaming Activation Components|Activation Trigger" },
+		{ "HideCategories", "Object LOD Lighting TextureStreaming Object LOD Lighting TextureStreaming Object LOD Lighting TextureStreaming Activation Components|Activation Trigger VirtualTexture" },
 		{ "IncludePath", "OrientedCapsuleComponent.h" },
 		{ "ModuleRelativePath", "Public/OrientedCapsuleComponent.h" },
 	};
@@ -91,7 +91,7 @@ void EmptyLinkFunctionForGeneratedCodeOrientedCapsuleComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UOrientedCapsuleComponent, 3036046696);
+	IMPLEMENT_CLASS(UOrientedCapsuleComponent, 1901454992);
 	template<> ORIENTEDCAPSULE_API UClass* StaticClass<UOrientedCapsuleComponent>()
 	{
 		return UOrientedCapsuleComponent::StaticClass();
