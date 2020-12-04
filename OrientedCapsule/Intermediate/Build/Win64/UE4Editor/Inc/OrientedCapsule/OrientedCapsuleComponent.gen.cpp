@@ -91,7 +91,7 @@ void EmptyLinkFunctionForGeneratedCodeOrientedCapsuleComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UOrientedCapsuleComponent, 1901454992);
+	IMPLEMENT_CLASS(UOrientedCapsuleComponent, 2512388798);
 	template<> ORIENTEDCAPSULE_API UClass* StaticClass<UOrientedCapsuleComponent>()
 	{
 		return UOrientedCapsuleComponent::StaticClass();

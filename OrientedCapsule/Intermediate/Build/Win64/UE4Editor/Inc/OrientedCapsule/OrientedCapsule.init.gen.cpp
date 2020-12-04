@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeOrientedCapsule_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xB9F155D8,
+				0xA72373DE,
 				0xD81667AC,
 				METADATA_PARAMS(nullptr, 0)
 			};
