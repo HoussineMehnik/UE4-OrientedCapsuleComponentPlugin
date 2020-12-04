@@ -1,4 +1,4 @@
-# Oriented_Capsule_Component
-Oriented Capsule Component
+# Oriented Capsule Component
+Simple UE4 plugin adding a new component allowing to change the orientation of CapsuleComponent's physics shape.
 
-![Oriented Capsule Component ](https://raw.githubusercontent.com/mhousse1247/Oriented_Capsule_Component/master/OrientedCapsule/Screenshot.png)
+![Oriented Capsule Component ](Screenshot.png)
